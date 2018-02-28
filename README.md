@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+@copyright = ReillyViewTool::Renderer.copyright 'Simon Reilly', 'All rights reserved'
+```
 
 ## Development
 
