@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{A simple gem for displaying copyright messages}
   spec.description   = %q{Provides generated HTML}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/simonireilly/reilly_view_tool"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
